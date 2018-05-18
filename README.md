@@ -3,4 +3,4 @@
 
 阅读工具：
 - Kindle
-- Clearview（Mac）
+- Clearview（Mac）https://github.com/ben7z/books/blob/master/Clearview.zip
